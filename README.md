@@ -1,4 +1,4 @@
-# Library Management System
+# Система управління бібліотекою
 
 ## Огляд
 
